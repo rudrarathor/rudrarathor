@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudrarathor
+- 👋 Hi, I’m 
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning ethicak hacking
 - 💞️ I’m looking to collaborate on kali linux
